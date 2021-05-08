@@ -1,0 +1,6 @@
+/home/sarp/Projects/SCon/SCon/bin/Debug/SCon.exe
+/home/sarp/Projects/SCon/SCon/bin/Debug/SCon.pdb
+/home/sarp/Projects/SCon/SCon/obj/x86/Debug/SCon.csprojAssemblyReference.cache
+/home/sarp/Projects/SCon/SCon/obj/x86/Debug/SCon.csproj.CoreCompileInputs.cache
+/home/sarp/Projects/SCon/SCon/obj/x86/Debug/SCon.exe
+/home/sarp/Projects/SCon/SCon/obj/x86/Debug/SCon.pdb

@@ -1,0 +1,3 @@
+/home/sarp/Projects/SCon/SCon/bin/Release/SCon.exe
+/home/sarp/Projects/SCon/SCon/obj/x86/Release/SCon.csproj.CoreCompileInputs.cache
+/home/sarp/Projects/SCon/SCon/obj/x86/Release/SCon.exe
