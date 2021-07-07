@@ -9,7 +9,7 @@ Just download and run. No installation or anything needed for Windows. Works fin
 
 
 ### Run on Linux
-You need Mono Runtime for this app. Tested on Linux with Mono Runtime for Linux and Mono Runtime on Wine. Works fine on Debian based distros.
+You need Mono Runtime for this app. Tested on Linux with Mono Runtime for Linux and Mono Runtime for Wine. Works fine on Debian based distros.
 
 To install Mono Runtime, just run this command:
 ```
