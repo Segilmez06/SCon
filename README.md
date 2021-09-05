@@ -1,7 +1,7 @@
 # SCon
 A basic and multiplatform serial port terminal.
 
-[DOWNLOAD](https://github.com/Segilmez06/SCom/releases/tag/1.0 "Click to go download page")
+[DOWNLOAD](https://github.com/Segilmez06/SCon/releases/latest "Click to go download page")
 
 
 ### Run on Windows
